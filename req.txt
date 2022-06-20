@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+opencv-python
+tensorflow-cpu
+tensorflow-hub
+scikit-image
+jupyterlab
+flask
